@@ -1,0 +1,23 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+  text-align: center;
+  color: green;  
+  text-transform: uppercase ;
+  font-size: 20px;
+}
+
+p {
+    font-size: 12px;
+    padding: 2px;
+}
+
+.CorpoDoTexto {
+    color: blueviolet;
+}
+
+.CorpoDoTexto2 {
+    color: red;
+}
